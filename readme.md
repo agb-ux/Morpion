@@ -2,7 +2,10 @@
 
 Jeu de morpion à deux joueurs, développé en Python avec **tkinter**. Chaque joueur dispose de 3 pions qu'il place et déplace librement sur un plateau carré. Le premier qui aligne ses 3 pions gagne.
 
-<!-- Ajouter ici une capture d'écran : ![Capture du jeu](capture.png) -->
+![Capture du jeu](images/accueil.png)
+![Capture du jeu](images/config.png)
+![Capture du jeu](images/plateauJeu.png)
+
 
 ## Fonctionnalités
 
@@ -32,13 +35,11 @@ Sous Linux (Debian/Ubuntu), si tkinter est absent :
 sudo apt install python3-tk
 ```
 
-Aucune autre dépendance n'est nécessaire.
-
 ## Lancer le jeu
 
 ```bash
-git clone https://github.com/<ton-user>/<nom-du-repo>.git
-cd <nom-du-repo>
+git clone https://github.com/agb-ux/Morpion.git
+cd Morpion
 python main.py
 ```
 
