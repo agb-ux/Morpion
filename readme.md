@@ -2,8 +2,13 @@
 
 Jeu de morpion à deux joueurs, développé en Python avec **tkinter**. Chaque joueur dispose de 3 pions qu'il place et déplace librement sur un plateau carré. Le premier qui aligne ses 3 pions gagne.
 
+ ### page d'accueil de l'application
 ![Capture du jeu](images/accueil.png)
+
+### page de configuration
 ![Capture du jeu](images/config.png)
+
+### plateau de jeu
 ![Capture du jeu](images/plateauJeu.png)
 
 
